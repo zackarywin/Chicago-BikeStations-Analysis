@@ -7,3 +7,5 @@ In these assignments we:
 - Run a data modeling processes to extract the necessary bike station utilization information from the JSON data and group the data by station.
 - Run  an analysis to calculate some basic statistics about the data.
 - Create different types of visualizations of the bike station data you have retrieved and processed and save some plots. 
+
+See PythonProject.PNG for the whole project outline.
